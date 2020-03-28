@@ -12,6 +12,7 @@ apt update
 apt upgrade
 apt install python2
 apt install python
+pip2 install requests
 apt install git
 git clone https://github.com/PyRAT-svg/DarkFB2
 cd DarkFB2
